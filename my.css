@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,200;0,300;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,500;1,600;1,700;1,800;1,900&display=swap');
+.contenar {
+    width: 1140px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: auto;
+}
+
+
+.headerWrapper {
+    background: #F4F4F4;
+    overflow: hidden;
+}
+
+
+
+.headerNumber {
+    float: left;
+    width: 184px;
+    padding: 5px;
+}
+.headerEmail {
+    width: 207px;
+    float: left;
+    padding: 5px;
+}
+ul.sosilLinlIcon {
+    float: right;
+    list-style: none;
+    width: 102px;
+}
+
+ul.sosilLinlIcon li {
+    float: left;
+}
+
+ul.sosilLinlIcon li a {
+    padding: 0px 10px;
+}
+
+ul.sosilLinlIcon {}
+.headerNumber i {
+    padding: 0px 10px;
+}
+
+.headerEmail i {
+    padding: 0px 10px;
+    color: #fff5200;
+    font-size: 18px;
+    color: #4a4646;
+}.supManu {
+    background: #53D3DE;
+    overflow: hidden;
+}
+
+.supManu {}
+
+.supIogo h1 {
+    font-size: 54px;
+    text-transform: uppercase;
+    padding: 20px 0px;
+    font-family: 'Work Sans';
+}
+.supManuList {
+    float: right;
+    width: 537px;
+    padding: 67px;
+}
+
+.supIogo {
+    width: 250px;
+    float: left;
+}
+
+ul.supManuul {
+    list-style: none;
+}
+
+ul.supManuul li {
+    float: left;
+    width: 124px;
+}
+
+li {}
+
+li {}
+
+ul.supManuul li a {
+    text-decoration: none;
+    font-size: 22px;
+}
+ul.supManuul li:last-child{background: black:;width: 500px}
